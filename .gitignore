@@ -1,0 +1,7 @@
+# Nunca subir secretos ni datos del homelab
+*.key
+*.pem
+id_*
+.env
+secrets/
+*.ovpn
