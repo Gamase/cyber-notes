@@ -5,3 +5,4 @@ id_*
 .env
 secrets/
 *.ovpn
+key*
